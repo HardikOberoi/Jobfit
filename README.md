@@ -40,11 +40,10 @@ JobFit is an AI-powered tool that helps job seekers analyze their resumes agains
 
 ## How to Use
 
-1. **Visit** the live application at [https://hxndev.github.io/JobFit/](https://hxndev.github.io/JobFit/)
-2. **Provide a Google Gemini API Key** when prompted (this is used to power the AI features)
-3. **Upload your resume** (PDF or TXT format)
-4. **Enter job details** for the positions you're interested in
-5. **Analyze and improve** your application materials using JobFit's tools
+1. **Provide a Google Gemini API Key** when prompted (this is used to power the AI features)
+2. **Upload your resume** (PDF or TXT format)
+3. **Enter job details** for the positions you're interested in
+4. **Analyze and improve** your application materials using JobFit's tools
 
 ## Getting a Google Gemini API Key
 
