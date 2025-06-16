@@ -75,10 +75,3 @@ JobFit uses Google's Gemini AI to power its features. You'll need to provide you
 - PyPDF2 for PDF processing
 
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-© 2025 JobFit | All rights reserved
